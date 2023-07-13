@@ -15,7 +15,7 @@ Based on projects from Brad Traversy and Florin Pop's course: [50 Projects In 50
 | 9 | Sound-Board | [Live Demo]() |
 | 10 | Dad-Jokes | [Live Demo]() |
 | 11 | Event-Keycodes | [Live Demo]() |
-| 12 |  |  |
+| 12 | FAQ-Collapse | [Live Demo]() |
 | 13 |  |  |
 | 14 |  |  |
 | 15 |  |  |
