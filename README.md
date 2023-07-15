@@ -16,7 +16,7 @@ Based on projects from Brad Traversy and Florin Pop's course: [50 Projects In 50
 | 10 | Dad-Jokes | [Live Demo]() |
 | 11 | Event-Keycodes | [Live Demo]() |
 | 12 | FAQ-Collapse | [Live Demo]() |
-| 13 |  |  |
+| 13 | Random-Choice-Picker | [Live Demo]() |
 | 14 |  |  |
 | 15 |  |  |
 | 16 |  |  |
