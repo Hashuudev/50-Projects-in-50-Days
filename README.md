@@ -2,6 +2,8 @@
 A collection of mini web projects written in plain HTML, CSS and JavaScript.
 Based on projects from Brad Traversy and Florin Pop's course: [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)
 
+Live Demo links aren't deployed yet. Stay Tuned!  
+
 | # | Projects | Live Demo |
 |----------|----------|----------|
 | 1 | Expanding-Cards | [Live Demo]() |
