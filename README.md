@@ -17,7 +17,7 @@ Based on projects from Brad Traversy and Florin Pop's course: [50 Projects In 50
 | 11 | Event-Keycodes | [Live Demo]() |
 | 12 | FAQ-Collapse | [Live Demo]() |
 | 13 | Random-Choice-Picker | [Live Demo]() |
-| 14 |  |  |
+| 14 | Animated-Navigation | [Live Demo]() |
 | 15 |  |  |
 | 16 |  |  |
 | 17 |  |  |
