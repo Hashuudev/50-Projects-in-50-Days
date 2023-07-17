@@ -20,7 +20,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 12 | FAQ-Collapse | [Live Demo]() |
 | 13 | Random-Choice-Picker | [Live Demo]() |
 | 14 | Animated-Navigation | [Live Demo]() |
-| 15 |  |  |
+| 15 | Incrementing-Counter |  |
 | 16 |  |  |
 | 17 |  |  |
 | 18 |  |  |
