@@ -1,6 +1,6 @@
 # 50-Projects-in-50-Days
 A collection of mini web projects written in plain HTML, CSS and JavaScript.
-Based on projects from Brad Traversy and Florin Pop's course: [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)
+Based on projects from _Brad Traversy and Florin Pop's_ course: [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)
 
 Live Demo links aren't deployed yet. Stay Tuned!  
 
