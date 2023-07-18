@@ -21,7 +21,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 13 | Random-Choice-Picker | [Live Demo]() |
 | 14 | Animated-Navigation | [Live Demo]() |
 | 15 | Incrementing-Counter | [Live Demo]() |
-| 16 |  | [Live Demo]() |
+| 16 | Drink-Water | [Live Demo]() |
 | 17 |  |  |
 | 18 |  |  |
 | 19 |  |  |
