@@ -22,7 +22,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 14 | Animated-Navigation | [Live Demo]() |
 | 15 | Incrementing-Counter | [Live Demo]() |
 | 16 | Drink-Water | [Live Demo]() |
-| 17 |  |  |
+| 17 |  | [Live Demo]() |
 | 18 |  |  |
 | 19 |  |  |
 | 20 |  |  |
