@@ -25,7 +25,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 17 | Movie-App | [Live Demo]() |
 | 18 | Background-Slider | [Live Demo]() |
 | 19 | Theme-Clock | [Live Demo]() |
-| 20 |  | [Live Demo]() |
+| 20 | Button-Ripple-Effect | [Live Demo]() |
 | 21 |  |  |
 | 22 |  |  |
 | 23 |  |  |
