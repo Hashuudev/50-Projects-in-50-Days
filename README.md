@@ -24,7 +24,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 16 | Drink-Water | [Live Demo]() |
 | 17 | Movie-App | [Live Demo]() |
 | 18 | Background-Slider | [Live Demo]() |
-| 19 | Theme-Clock |  |
+| 19 | Theme-Clock | [Live Demo]() |
 | 20 |  |  |
 | 21 |  |  |
 | 22 |  |  |
