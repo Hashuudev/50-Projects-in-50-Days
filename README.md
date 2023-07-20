@@ -23,7 +23,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 15 | Incrementing-Counter | [Live Demo]() |
 | 16 | Drink-Water | [Live Demo]() |
 | 17 | Movie-App | [Live Demo]() |
-| 18 |  | [Live Demo]() |
+| 18 | Background-Slider | [Live Demo]() |
 | 19 |  |  |
 | 20 |  |  |
 | 21 |  |  |
