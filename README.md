@@ -11,7 +11,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 3 | Rotating-Navigation | [Live Demo](https://hashuudev-rotating-navigation.netlify.app/) |
 | 4 | Hidden-Search-Widget | [Live Demo](https://hashuudev-hidden-search-widget.netlify.app/) |
 | 5 | Blurry-Loading-Image | [Live Demo](https://hashuudev-blurry-loading.netlify.app/) |
-| 6 | Scroll-Animation | [Live Demo]() |
+| 6 | Scroll-Animation | [Live Demo](https://hashuudev-scroll-animation.netlify.app/) |
 | 7 | Split-Landing-Page | [Live Demo]() |
 | 8 | Form-Wavy-Animation | [Live Demo]() |
 | 9 | Sound-Board | [Live Demo]() |
