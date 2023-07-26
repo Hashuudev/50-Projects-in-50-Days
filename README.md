@@ -12,7 +12,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 4 | Hidden-Search-Widget | [Live Demo](https://hashuudev-hidden-search-widget.netlify.app/) |
 | 5 | Blurry-Loading-Image | [Live Demo](https://hashuudev-blurry-loading.netlify.app/) |
 | 6 | Scroll-Animation | [Live Demo](https://hashuudev-scroll-animation.netlify.app/) |
-| 7 | Split-Landing-Page | [Live Demo]() |
+| 7 | Split-Landing-Page | [Live Demo](https://hashuudev-split-landing-page.netlify.app/) |
 | 8 | Form-Wavy-Animation | [Live Demo]() |
 | 9 | Sound-Board | [Live Demo]() |
 | 10 | Dad-Jokes | [Live Demo]() |
