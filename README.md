@@ -7,7 +7,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | # | Projects | Live Demo |
 |----------|----------|----------|
 | 1 | Expanding-Cards | [Live Demo](https://hashuudev-expanding-cards.netlify.app/) |
-| 2 | Progress-Steps | [Live Demo]() |
+| 2 | Progress-Steps | [Live Demo](https://hashuudev-progress-steps.netlify.app/) |
 | 3 | Rotating-Navigation | [Live Demo]() |
 | 4 | Hidden-Search-Widget | [Live Demo]() |
 | 5 | Blurry-Loading-Image | [Live Demo]() |
