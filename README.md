@@ -14,7 +14,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 6 | Scroll-Animation | [Live Demo](https://hashuudev-scroll-animation.netlify.app/) |
 | 7 | Split-Landing-Page | [Live Demo](https://hashuudev-split-landing-page.netlify.app/) |
 | 8 | Form-Wavy-Animation | [Live Demo](https://hashuudev-form-wavy-animation.netlify.app/) |
-| 9 | Sound-Board | [Live Demo]() |
+| 9 | Sound-Board | [Live Demo](https://hashuudev-sound-board.netlify.app/) |
 | 10 | Dad-Jokes | [Live Demo]() |
 | 11 | Event-Keycodes | [Live Demo]() |
 | 12 | FAQ-Collapse | [Live Demo]() |
