@@ -1,4 +1,4 @@
-# 50-Projects-in-50-Days
+# 50-Projects-in-50-Days [![Netlify Status](https://api.netlify.com/api/v1/badges/5827656b-6462-4b7b-8126-012a3dc89b76/deploy-status)](https://app.netlify.com/sites/hashuudev-expanding-cards/deploys)
 A collection of mini web projects written in plain HTML, CSS and JavaScript.
 Based on projects from _Brad Traversy and Florin Pop's_ course: [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/)
 
