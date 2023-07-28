@@ -21,7 +21,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 13 | Random-Choice-Picker | [Live Demo](https://hashuudev-choice-picker.netlify.app/) |
 | 14 | Animated-Navigation | [Live Demo](https://hashuudev-animated-navigation.netlify.app/) |
 | 15 | Incrementing-Counter | [Live Demo](https://hashuudev-incrementing-counter.netlify.app/) |
-| 16 | Drink-Water | [Live Demo]() |
+| 16 | Drink-Water | [Live Demo](https://hashuudev-drink-water.netlify.app/) |
 | 17 | Movie-App | [Live Demo]() |
 | 18 | Background-Slider | [Live Demo]() |
 | 19 | Theme-Clock | [Live Demo]() |
