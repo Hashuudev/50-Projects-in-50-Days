@@ -20,7 +20,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 12 | FAQ-Collapse | [Live Demo](https://hashuudev-faq-collapse.netlify.app/) |
 | 13 | Random-Choice-Picker | [Live Demo](https://hashuudev-choice-picker.netlify.app/) |
 | 14 | Animated-Navigation | [Live Demo](https://hashuudev-animated-navigation.netlify.app/) |
-| 15 | Incrementing-Counter | [Live Demo]() |
+| 15 | Incrementing-Counter | [Live Demo](https://hashuudev-incrementing-counter.netlify.app/) |
 | 16 | Drink-Water | [Live Demo]() |
 | 17 | Movie-App | [Live Demo]() |
 | 18 | Background-Slider | [Live Demo]() |
