@@ -17,7 +17,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 9 | Sound-Board | [Live Demo](https://hashuudev-sound-board.netlify.app/) |
 | 10 | Dad-Jokes | [Live Demo](https://hashuudev-dad-jokes.netlify.app/) |
 | 11 | Event-Keycodes | [Live Demo](https://hashuudev-event-keycodes.netlify.app/) |
-| 12 | FAQ-Collapse | [Live Demo]() |
+| 12 | FAQ-Collapse | [Live Demo](https://hashuudev-faq-collapse.netlify.app/) |
 | 13 | Random-Choice-Picker | [Live Demo]() |
 | 14 | Animated-Navigation | [Live Demo]() |
 | 15 | Incrementing-Counter | [Live Demo]() |
