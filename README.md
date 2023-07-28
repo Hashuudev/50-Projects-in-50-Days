@@ -19,7 +19,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 11 | Event-Keycodes | [Live Demo](https://hashuudev-event-keycodes.netlify.app/) |
 | 12 | FAQ-Collapse | [Live Demo](https://hashuudev-faq-collapse.netlify.app/) |
 | 13 | Random-Choice-Picker | [Live Demo](https://hashuudev-choice-picker.netlify.app/) |
-| 14 | Animated-Navigation | [Live Demo]() |
+| 14 | Animated-Navigation | [Live Demo](https://hashuudev-animated-navigation.netlify.app/) |
 | 15 | Incrementing-Counter | [Live Demo]() |
 | 16 | Drink-Water | [Live Demo]() |
 | 17 | Movie-App | [Live Demo]() |
