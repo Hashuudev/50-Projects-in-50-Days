@@ -25,7 +25,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 17 | Movie-App | [Live Demo](https://hashuudev-movie-app.netlify.app/) |
 | 18 | Background-Slider | [Live Demo](https://hashuudev-background-slider.netlify.app/) |
 | 19 | Theme-Clock | [Live Demo](https://hashuudev-theme-clock.netlify.app/) |
-| 20 | Button-Ripple-Effect | [Live Demo]() |
+| 20 | Button-Ripple-Effect | [Live Demo](https://hashuudev-button-ripple-effect.netlify.app/) |
 | 21 | Drag-n-Drop | [Live Demo]() |
 | 22 |  |  |
 | 23 |  |  |
