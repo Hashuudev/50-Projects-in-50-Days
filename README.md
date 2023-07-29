@@ -22,7 +22,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 14 | Animated-Navigation | [Live Demo](https://hashuudev-animated-navigation.netlify.app/) |
 | 15 | Incrementing-Counter | [Live Demo](https://hashuudev-incrementing-counter.netlify.app/) |
 | 16 | Drink-Water | [Live Demo](https://hashuudev-drink-water.netlify.app/) |
-| 17 | Movie-App | [Live Demo]() |
+| 17 | Movie-App | [Live Demo](https://hashuudev-movie-app.netlify.app/) |
 | 18 | Background-Slider | [Live Demo]() |
 | 19 | Theme-Clock | [Live Demo]() |
 | 20 | Button-Ripple-Effect | [Live Demo]() |
