@@ -24,7 +24,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 16 | Drink-Water | [Live Demo](https://hashuudev-drink-water.netlify.app/) |
 | 17 | Movie-App | [Live Demo](https://hashuudev-movie-app.netlify.app/) |
 | 18 | Background-Slider | [Live Demo](https://hashuudev-background-slider.netlify.app/) |
-| 19 | Theme-Clock | [Live Demo]() |
+| 19 | Theme-Clock | [Live Demo](https://hashuudev-theme-clock.netlify.app/) |
 | 20 | Button-Ripple-Effect | [Live Demo]() |
 | 21 | Drag-n-Drop | [Live Demo]() |
 | 22 |  |  |
