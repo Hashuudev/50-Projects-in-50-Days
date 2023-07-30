@@ -27,7 +27,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 19 | Theme-Clock | [Live Demo](https://hashuudev-theme-clock.netlify.app/) |
 | 20 | Button-Ripple-Effect | [Live Demo](https://hashuudev-button-ripple-effect.netlify.app/) |
 | 21 | Drag-n-Drop | [Live Demo](https://hashuudev-drag-n-drop.netlify.app/) |
-| 22 |  |  |
+| 22 | Drawing App |  |
 | 23 |  |  |
 | 24 |  |  |
 | 25 |  |  |
