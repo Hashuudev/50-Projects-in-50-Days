@@ -28,7 +28,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 20 | Button-Ripple-Effect | [Live Demo](https://hashuudev-button-ripple-effect.netlify.app/) |
 | 21 | Drag-n-Drop | [Live Demo](https://hashuudev-drag-n-drop.netlify.app/) |
 | 22 | Drawing-App | [Live Demo](https://hashuudev-drawing-app.netlify.app/) |
-| 23 | Kinetic-Loader | [Live Demo]() |
+| 23 | Kinetic-Loader | [Live Demo](https://hashuudev-kinetic-loader.netlify.app/) |
 | 24 |  |  |
 | 25 |  |  |
 | 26 |  |  |
