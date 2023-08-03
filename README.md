@@ -30,7 +30,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 22 | Drawing-App | [Live Demo](https://hashuudev-drawing-app.netlify.app/) |
 | 23 | Kinetic-Loader | [Live Demo](https://hashuudev-kinetic-loader.netlify.app/) |
 | 24 | Content-Placeholder | [Live Demo]() |
-| 25 |  | [Live Demo]() |
+| 25 |  |  |
 | 26 |  |  |
 | 27 |  |  |
 | 28 |  |  |
