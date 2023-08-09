@@ -31,7 +31,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 23 | Kinetic-Loader | [Live Demo](https://hashuudev-kinetic-loader.netlify.app/) |
 | 24 | Content-Placeholder | [Live Demo](https://hashuudev-content-placeholder.netlify.app/) |
 | 25 | Sticky-Navigation | [Live Demo](https://hashuudev-sticky-nav.netlify.app/) |
-| 26 |  |  |
+| 26 | Double-Vertical-Slider |  |
 | 27 |  |  |
 | 28 |  |  |
 | 29 |  |  |
