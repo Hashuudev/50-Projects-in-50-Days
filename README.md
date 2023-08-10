@@ -32,7 +32,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 24 | Content-Placeholder | [Live Demo](https://hashuudev-content-placeholder.netlify.app/) |
 | 25 | Sticky-Navigation | [Live Demo](https://hashuudev-sticky-nav.netlify.app/) |
 | 26 | Double-Vertical-Slider | [Live Demo](https://hashuudev-vertical-slider.netlify.app/) |
-| 27 | Toast-Notification | [Live Demo]() |
+| 27 | Toast-Notification | [Live Demo](https://hashuudev-toast-notification.netlify.app/) |
 | 28 |  |  |
 | 29 |  |  |
 | 30 |  |  |
