@@ -33,7 +33,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 25 | Sticky-Navigation | [Live Demo](https://hashuudev-sticky-nav.netlify.app/) |
 | 26 | Double-Vertical-Slider | [Live Demo](https://hashuudev-vertical-slider.netlify.app/) |
 | 27 | Toast-Notification | [Live Demo](https://hashuudev-toast-notification.netlify.app/) |
-| 28 |  |  |
+| 28 | Github-Profiles |  |
 | 29 |  |  |
 | 30 |  |  |
 | 31 |  |  |
