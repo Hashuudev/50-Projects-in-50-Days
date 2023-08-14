@@ -35,7 +35,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 27 | Toast-Notification | [Live Demo](https://hashuudev-toast-notification.netlify.app/) |
 | 28 | Github-Profiles | [Live Demo](https://hashuudev-github-profiles.netlify.app/) |
 | 29 | Double-Click-Heart | [Live Demo](https://hashuudev-double-click-heart.netlify.app/) |
-| 30 | Auto-Text-Effect |  |
+| 30 | Auto-Text-Effect | [Live Demo]() |
 | 31 |  |  |
 | 32 |  |  |
 | 33 |  |  |
