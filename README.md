@@ -36,7 +36,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 28 | Github-Profiles | [Live Demo](https://hashuudev-github-profiles.netlify.app/) |
 | 29 | Double-Click-Heart | [Live Demo](https://hashuudev-double-click-heart.netlify.app/) |
 | 30 | Auto-Text-Effect | [Live Demo](https://hashuudev-auto-text-effect.netlify.app/) |
-| 31 | Password-Generator | [Live Demo]() |
+| 31 | Password-Generator | [Live Demo](https://hashuudev-password-generator.netlify.app/) |
 | 32 |  |  |
 | 33 |  |  |
 | 34 |  |  |
