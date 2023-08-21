@@ -38,7 +38,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 30 | Auto-Text-Effect | [Live Demo](https://hashuudev-auto-text-effect.netlify.app/) |
 | 31 | Password-Generator | [Live Demo](https://hashuudev-password-generator.netlify.app/) |
 | 32 | Good-Cheap-Fast | [Live Demo](https://hashuudev-good-cheap-fast.netlify.app/) |
-| 33 | Notes-App | [Live Demo]() |
+| 33 | Notes-App | [Live Demo](https://hashuudev-notes-app.netlify.app/) |
 | 34 |  |  |
 | 35 |  |  |
 | 36 |  |  |
