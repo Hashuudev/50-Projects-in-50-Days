@@ -39,7 +39,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 31 | Password-Generator | [Live Demo](https://hashuudev-password-generator.netlify.app/) |
 | 32 | Good-Cheap-Fast | [Live Demo](https://hashuudev-good-cheap-fast.netlify.app/) |
 | 33 | Notes-App | [Live Demo](https://hashuudev-notes-app.netlify.app/) |
-| 34 | Animated-Countdown | [Live Demo]() |
+| 34 | Animated-Countdown | [Live Demo](https://hashuudev-animated-countdown.netlify.app/) |
 | 35 |  |  |
 | 36 |  |  |
 | 37 |  |  |
