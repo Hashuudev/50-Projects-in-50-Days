@@ -41,7 +41,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 33 | Notes-App | [Live Demo](https://hashuudev-notes-app.netlify.app/) |
 | 34 | Animated-Countdown | [Live Demo](https://hashuudev-animated-countdown.netlify.app/) |
 | 35 | Image-Carousel | [Live Demo](https://hashuudev-image-carousel.netlify.app/) |
-| 36 | Hoverboard |  |
+| 36 | Hoverboard | [Live Demo]() |
 | 37 |  |  |
 | 38 |  |  |
 | 39 |  |  |
