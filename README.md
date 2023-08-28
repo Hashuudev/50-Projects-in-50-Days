@@ -42,7 +42,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 34 | Animated-Countdown | [Live Demo](https://hashuudev-animated-countdown.netlify.app/) |
 | 35 | Image-Carousel | [Live Demo](https://hashuudev-image-carousel.netlify.app/) |
 | 36 | Hoverboard | [Live Demo](https://hashuudev-hoverboard.netlify.app/) |
-| 37 | Pokedex | [Live Demo]() |
+| 37 | Pokedex | [Live Demo](https://hashuudev-pokedex.netlify.app/) |
 | 38 |  |  |
 | 39 |  |  |
 | 40 |  |  |
