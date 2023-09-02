@@ -44,7 +44,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 36 | Hoverboard | [Live Demo](https://hashuudev-hoverboard.netlify.app/) |
 | 37 | Pokedex | [Live Demo](https://hashuudev-pokedex.netlify.app/) |
 | 38 | Mobile-Tab-Navigation | [Live Demo](https://hashuudev-mobile-tab-navigation.netlify.app/) |
-| 39 | Password-Strength-Background | [Live Demo]() |
+| 39 | Password-Strength-Background | [Live Demo](https://hashuudev-password-strength.netlify.app/) |
 | 40 |  |  |
 | 41 |  |  |
 | 42 |  |  |
