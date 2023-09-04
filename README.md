@@ -46,7 +46,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 38 | Mobile-Tab-Navigation | [Live Demo](https://hashuudev-mobile-tab-navigation.netlify.app/) |
 | 39 | Password-Strength-Background | [Live Demo](https://hashuudev-password-strength.netlify.app/) |
 | 40 | 3d-Boxes-Background | [Live Demo](https://hashuudev-3d-boxes-background.netlify.app/) |
-| 41 | Verify-Account-Ui | [Live Demo]() |
+| 41 | Verify-Account-Ui | [Live Demo](https://hashuudev-verify-account.netlify.app/) |
 | 42 |  |  |
 | 43 |  |  |
 | 44 |  |  |
