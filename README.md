@@ -49,7 +49,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 41 | Verify-Account-Ui | [Live Demo](https://hashuudev-verify-account.netlify.app/) |
 | 42 | Live-User-Filter | [Live Demo](https://hashuudev-live-user-filter.netlify.app/) |
 | 43 | Feedback-Ui-Design | [Live Demo](https://hashuudev-feedback-ui.netlify.app/) |
-| 44 |  |  |
+| 44 | Custom-Range-Slider |  |
 | 45 |  |  |
 | 46 |  |  |
 | 47 |  |  |
