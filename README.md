@@ -50,7 +50,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 42 | Live-User-Filter | [Live Demo](https://hashuudev-live-user-filter.netlify.app/) |
 | 43 | Feedback-Ui-Design | [Live Demo](https://hashuudev-feedback-ui.netlify.app/) |
 | 44 | Custom-Range-Slider | [Live Demo](https://hashuudev-custom-range-slider.netlify.app/) |
-| 45 |  |  |
+| 45 | Netflix-Mobile-Navigation |  |
 | 46 |  |  |
 | 47 |  |  |
 | 48 |  |  |
