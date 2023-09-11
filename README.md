@@ -51,7 +51,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 43 | Feedback-Ui-Design | [Live Demo](https://hashuudev-feedback-ui.netlify.app/) |
 | 44 | Custom-Range-Slider | [Live Demo](https://hashuudev-custom-range-slider.netlify.app/) |
 | 45 | Netflix-Mobile-Navigation | [Live Demo](https://hashuudev-netlflix-mobile-navigation.netlify.app/) |
-| 46 |  |  |
+| 46 | Quiz-App | [Live Demo]() |
 | 47 |  |  |
 | 48 |  |  |
 | 49 |  |  |
