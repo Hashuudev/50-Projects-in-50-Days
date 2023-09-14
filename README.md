@@ -52,7 +52,7 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 44 | Custom-Range-Slider | [Live Demo](https://hashuudev-custom-range-slider.netlify.app/) |
 | 45 | Netflix-Mobile-Navigation | [Live Demo](https://hashuudev-netlflix-mobile-navigation.netlify.app/) |
 | 46 | Quiz-App | [Live Demo](https://hashuudev-quiz-app.netlify.app/) |
-| 47 |  |  |
+| 47 | Testimonial Box Switcher |  |
 | 48 |  |  |
 | 49 |  |  |
 | 50 |  |  |
