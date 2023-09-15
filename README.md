@@ -53,6 +53,6 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 45 | Netflix-Mobile-Navigation | [Live Demo](https://hashuudev-netlflix-mobile-navigation.netlify.app/) |
 | 46 | Quiz-App | [Live Demo](https://hashuudev-quiz-app.netlify.app/) |
 | 47 | Testimonial-Box-Switcher | [Live Demo](https://hashuudev-testimonial-box.netlify.app/) |
-| 48 | Random-Image-Feed |  |
+| 48 | Random-Image-Feed | [Live Demo]() |
 | 49 |  |  |
 | 50 |  |  |
