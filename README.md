@@ -55,4 +55,4 @@ Live Demo links aren't deployed yet. Stay Tuned!
 | 47 | Testimonial-Box-Switcher | [Live Demo](https://hashuudev-testimonial-box.netlify.app/) |
 | 48 | Random-Image-Feed | [Live Demo](https://hashuudev-random-image-feed.netlify.app/) |
 | 49 | Todo-List | [Live Demo](https://hashuudev-todolist.netlify.app/) |
-| 50 |  |  |
+| 50 | Insect-Catch-Game |  |
